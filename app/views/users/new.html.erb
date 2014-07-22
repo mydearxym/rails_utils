@@ -1,0 +1,22 @@
+
+<hr>
+<h3>用户注册:</h3>
+<!-- user model acts_as_authentic之后，authlogic会自动的为user model加上一些验证，比如login必填、login唯一、email格式、email必填、email唯一、password必填、password长度、password_confirmation和password必须相同等…… 
+注意这些不是 simple_form 加的， 而是 acts_as_authentic 自己加的
+ -->
+
+<%= simple_form_for @user, :url => account_path do |f| %>
+  <%= f.error_notification %>
+  <%= f.input :login, label: t("user.name"), required: true %>
+  <%= f.input :email, label: t("user.email"), required: true %>
+  <%= f.input :password, label: t("user.password") %>
+  <%= f.input :password_confirmation, label: t("user.password_again") %>
+
+  <%= f.input :roles, collection: User::ROLES, as: :check_boxes %>
+
+  <%= f.button :submit , value: t("user.register"), class: "btn btn-primary"%>
+
+<% end %>
+
+
+

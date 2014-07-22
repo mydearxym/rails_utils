@@ -1,0 +1,30 @@
+
+<div id="process_area"></div>
+<h1 class="text-danger"><%= image_tag("gogo_logo.png") %>  <%= t 'index.title' %> </h1>
+
+<div id="tag_cloud">
+ <%= render "tagcloud" %>
+</div>
+
+<%= render "multiupload" %>
+
+<!-- <a id="upload-menu" class="btn btn-primary btn-sm fr"><%= t 'main_tb.upload_file' %></a> -->
+
+<% if role_is?("admin") %>
+<a id="upload-menu" class="btn btn-primary btn-sm fr"><%= t 'main_tb.upload_file' %></a>
+<% end %>
+
+<br></br>
+
+<%= render 'maintable' %>
+</br>
+
+<%= link_to t('index.new_ringtone'), new_ringtone_path ,id: "new_link", remote: true %>
+
+<script id="template-upload" type="text/x-tmpl">
+</script>
+
+
+
+
+
