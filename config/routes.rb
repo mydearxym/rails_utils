@@ -26,7 +26,14 @@ TestNew::Application.routes.draw do
     end
   end
 
-    
+  namespace :demo do 
+    # root :to => 'demo#index'
+    get 'timeline', to: "timeline#index"
+
+
+  
+  end
+
   get 'tags/:tag', to: 'ringtones#index', as: :tag
 
   get 'api', to:"ringtones#api"

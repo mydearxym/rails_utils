@@ -71,6 +71,9 @@ module TestNew
     #config.i18n.default_locale = :en
     config.action_mailer.default_url_options = { :host => "localhost:3000" }
 
+    config.assets.paths << "#{Rails.root}/vendor/plugins/"
+    config.assets.paths << "#{Rails.root}/vendor/img/"
+    
   end
 end
 
