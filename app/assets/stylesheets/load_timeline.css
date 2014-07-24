@@ -1,0 +1,19 @@
+/*
+
+ *= require_self
+ *= require demo/base
+
+ *= require theme/style
+ *= require theme/themes/orange
+ 
+ *= require line-icons/line-icons
+ *= require font-awesome/css/font-awesome.min
+ *= require fancybox/source/jquery.fancybox
+ 
+ *= require theme/pages/feature_timeline2
+ * require theme/themes/default
+ *= require theme/custom
+
+
+*/
+      
