@@ -11,26 +11,25 @@
     <%= stylesheet_link_tag  "demo_application", :media => "all" %>
     
     <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
-    <%= stylesheet_link_tag  "/assets/theme/style" %>
+    <%= stylesheet_link_tag  "theme/style" %>
 
     <!-- CSS Implementing Plugins -->
     <!-- <link rel="stylesheet" href="assets/plugins/line-icons/line-icons.css"> -->
     <!-- in vendor/plugins -->
-    <%= stylesheet_link_tag  "/assets/line-icons/line-icons" %>
-    <%= stylesheet_link_tag  "/assets/font-awesome/css/font-awesome.min" %>
-    <%= stylesheet_link_tag  "/assets/fancybox/source/jquery.fancybox" %>
+    <%= stylesheet_link_tag  "line-icons/line-icons" %>
+    <%= stylesheet_link_tag  "font-awesome/css/font-awesome.min" %>
+    <%= stylesheet_link_tag  "fancybox/source/jquery.fancybox" %>
 
-    <%= stylesheet_link_tag  "/assets/theme/pages/feature_timeline2" %>
-    <%= stylesheet_link_tag  "/assets/theme/themes/default", id: 'style_color' %>
-    <%= stylesheet_link_tag  "/assets/theme/custom" %>
+    <%= stylesheet_link_tag  "theme/pages/feature_timeline2" %>
+    <%= stylesheet_link_tag  "theme/themes/default", id: 'style_color' %>
+    <%= stylesheet_link_tag  "theme/custom" %>
 
     <!-- Meta -->
 
     <!-- Favicon -->
-    <!-- <link rel="shortcut icon" href="favicon.ico"> -->
-
+    <link rel="shortcut icon" href="/assets/favicon.ico">
+    
 </head> 
-
 
 <head>
 
@@ -1006,7 +1005,8 @@
                 </div>
                 <div class="col-md-6">  
                     <a href="index.html">
-                        <img class="pull-right" id="logo-footer" src="/assets/logo2-default.png" alt="">
+                        <!-- <img class="pull-right" id="logo-footer" src="/assets/logo2-default.png" alt=""> -->
+                        <%= image_tag("logo2-default.png" , class: "pull-right", id: "logo-footer") %>
                     </a>
                 </div>
             </div>
