@@ -105,13 +105,13 @@ var App = function () {
         var setColor = function (color, data_header) {
             jQuery('#style_color').attr("href", "assets/css/themes/" + color + ".css");
             if(data_header == 'light'){
-                jQuery('#style_color-header-1').attr("href", "assets/css/themes/headers/header1-" + color + ".css");
-                jQuery('#logo-header').attr("src", "assets/img/logo1-" + color + ".png");
-                jQuery('#logo-footer').attr("src", "assets/img/logo2-" + color + ".png");
+                jQuery('#style_color-header-1').attr("href", "themes/headers/header1-" + color + ".css");
+                jQuery('#logo-header').attr("src", "/assets/logo1-" + color + ".png");
+                jQuery('#logo-footer').attr("src", "/assets/logo2-" + color + ".png");
             } else if(data_header == 'dark'){
-                jQuery('#style_color-header-2').attr("href", "assets/css/themes/headers/header2-" + color + ".css");
-                jQuery('#logo-header').attr("src", "assets/img/logo1-" + color + ".png");
-                jQuery('#logo-footer').attr("src", "assets/img/logo2-" + color + ".png");
+                jQuery('#style_color-header-2').attr("href", "themes/headers/header2-" + color + ".css");
+                jQuery('#logo-header').attr("src", "/assets/logo1-" + color + ".png");
+                jQuery('#logo-footer').attr("src", "/assets/logo2-" + color + ".png");
             }
         }
     }
@@ -142,13 +142,22 @@ var App = function () {
 
     return {
         init: function () {
+            return false;
+            console.log('0');
             handleBootstrap();
+            console.log('1');
             handleIEFixes();
+            console.log('2');
             handleSearch();
+            console.log('3');
             handleToggle();
+            console.log('4');
             handleSwitcher();
+            console.log('5');
             handleBoxed();
+            console.log('6');
             handleHeader();
+            console.log('7');
         },
 
         initSliders: function () {

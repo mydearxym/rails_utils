@@ -13,6 +13,9 @@
  *= require_tree .
  *= require_tree ../../../vendor/assets/stylesheets/.
 
+
+ *= require_tree ../../../vendor/theme_assets/css
+
  */
 
 .fr {
