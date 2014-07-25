@@ -1,1 +1,0 @@
-$(document).ready(function(){return $(document).on({mouseenter:function(){return $(this).find("img").show()},mouseleave:function(){return $(this).find("img").hide()}},".tag_column")});
