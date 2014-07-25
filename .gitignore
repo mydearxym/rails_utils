@@ -18,6 +18,7 @@
 config/database.yml
 .zeus.lock
 
+/public/assets/
 *.rbc
 capybara-*.html
 .rspec
