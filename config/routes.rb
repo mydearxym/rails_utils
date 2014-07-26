@@ -30,8 +30,6 @@ TestNew::Application.routes.draw do
     # root :to => 'demo#index'
     get 'timeline', to: "allpage#timeline"
 
-
-
   end
 
   get 'tags/:tag', to: 'ringtones#index', as: :tag
