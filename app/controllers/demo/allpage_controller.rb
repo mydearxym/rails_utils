@@ -1,15 +1,13 @@
 class Demo::AllpageController < ApplicationController
   layout :set_layout
   
-  # def index 
-    # render text: "hi fuck you~"
-  # end
+  def index 
+    render text: "you should go to specfic page"
+  end
 
   def timeline
-
-    # render text: "hello"
-    # render file: "views/demo/allpage/timeline.html.erb"
-    # render template: "demo/timeline.html.erb"
+    # means both load_timeload.css & load_timeload.js script
+    @assets_need = 'load_timeline'
   end
 
   def set_layout
