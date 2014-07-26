@@ -28,10 +28,10 @@ TestNew::Application.routes.draw do
 
   namespace :demo do 
     # root :to => 'demo#index'
-    get 'timeline', to: "timeline#index"
+    get 'timeline', to: "allpage#timeline"
 
 
-  
+
   end
 
   get 'tags/:tag', to: 'ringtones#index', as: :tag
