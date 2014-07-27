@@ -12,5 +12,6 @@
 // for our client slider
 //= require flexslider/jquery.flexslider
 
-
+//= require image-hover/js/modernizr
+//= require image-hover/js/touch
 

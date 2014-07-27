@@ -16,7 +16,14 @@
 // for our client slider
 *= require flexslider/flexslider
 
-// to complicate not need those
+// for 推荐小窗口
+*= require image-hover/css/img-hover
+*= require pages/page_job.css
 
 */
+
+.table_photo {
+	width: 64px;
+	height: 64px
+}
       

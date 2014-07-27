@@ -44,7 +44,7 @@
 	font-family:Arial;
 	background:#9c8061;
 	border-radius:3px 3px 0 0;
-	text-shadow:0 1px 0 #32a20f;
+	/*text-shadow:0 1px 0 #32a20f;*/
 }
 .pricing-head h4 {
 	color: #888;
