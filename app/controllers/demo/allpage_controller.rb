@@ -10,6 +10,10 @@ class Demo::AllpageController < ApplicationController
     @assets_need = 'load_timeline'
   end
 
+  def home1
+    @assets_need = 'load_home1'
+  end
+
   def set_layout
     "demopage"
   end

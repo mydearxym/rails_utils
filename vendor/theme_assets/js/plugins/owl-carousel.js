@@ -8,6 +8,8 @@ var OwlCarousel = function () {
 		        //Owl Slider v1
 		        var owl = jQuery(".owl-slider");
 		            owl.owlCarousel({
+		            	autoPlay : true,
+		            	autoPlay : 2000,
 		                itemsDesktop : [1000,5], //5 items between 1000px and 901px
 		                itemsDesktopSmall : [900,4], //4 items betweem 900px and 601px
 		                itemsTablet: [600,3], //3 items between 600 and 0;

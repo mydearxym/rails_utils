@@ -3,24 +3,11 @@
  *= require_self
  *= require base
 
- require theme/style
- *= require style
- *= require custom
  
- require theme/themes/orange
- *= require themes/brown
- 
- = require line-icons/line-icons
- *= require line-icons/line-icons
- = require font-awesome/css/font-awesome.min
- *= require font-awesome/css/font-awesome.min
- 
- require fancybox/source/jquery.fancybox
  *= require fancybox/source/jquery.fancybox
  
  require theme/pages/feature_timeline2
  *= require pages/feature_timeline2
- require theme/themes/default
  
 
 */

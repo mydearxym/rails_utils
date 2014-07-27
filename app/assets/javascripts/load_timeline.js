@@ -1,5 +1,9 @@
 //= require base
+
 //= require fancybox/source/jquery.fancybox.pack
 
-// require app
+jQuery(document).ready(function() {
+	App.init();
+	App.initFancybox();
+});
 

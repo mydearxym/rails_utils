@@ -4,7 +4,14 @@
  *= require bootstrap_and_overrides
  
  ## themes:
+ *= require style
+ *= require custom
  *= require themes/brown
+
+ = require line-icons/line-icons
+ *= require line-icons/line-icons
+ = require font-awesome/css/font-awesome.min
+ *= require font-awesome/css/font-awesome.min
 
  */
  

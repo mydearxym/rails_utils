@@ -120,7 +120,7 @@ a.read-more:hover {
 ------------------------------------*/
 /*Main Parallax Sldier*/
 .da-slide h2 i {
-	background:url(../../plugins/parallax-slider/img/bg-heading.png) repeat;
+	background:url(/assets/parallax-slider/img/bg-heading.png) repeat;
 }
 
 /*Sequence Parallax Sldier*/
@@ -181,10 +181,10 @@ a.read-more:hover {
 }
 
 .bx-wrapper .bx-prev {
-	background-image: url(../../plugins/bxslider/images/controls.png);
+	background-image: url(/assets/bxslider/images/controls.png);
 }
 .bx-wrapper .bx-next {
-	background-image: url(../../plugins/bxslider/images/controls.png);
+	background-image: url(/assets/bxslider/images/controls.png);
 }
 
 /*Typography

@@ -2,3 +2,4 @@
 //= require jquery-migrate-1.2.1.min
 //= require bootstrap/js/bootstrap.min
 //= require back-to-top
+//= require app
