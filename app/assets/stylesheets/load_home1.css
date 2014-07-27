@@ -3,8 +3,18 @@
  *= require_self
  *= require base
 
+ // for slider:
  *= require owl-carousel/owl-carousel/owl.carousel
- *= pages/page_about
+ *= require pages/page_about
+
+// for circle staff
+ *= pages/portfolio-v2
+
+// for price
+*= require pages/page_pricing
+
+// for our client slider
+*= require flexslider/flexslider
 
 // to complicate not need those
 

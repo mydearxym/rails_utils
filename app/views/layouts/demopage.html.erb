@@ -30,6 +30,22 @@
         <%= render partial: "footer" %>
 
         <%= javascript_include_tag @assets_need %>
+        <script>
+            jQuery(document).ready(function() {
+                App.init();
+                OwlCarousel.initOwlCarousel();                              
+                // PortfolioPage.init(); 
+                
+                CirclesMaster.initCirclesMaster1();
+                //  the color one
+                CirclesMaster.initCirclesMaster2();
+                // for client slider
+                console.log("init slider");
+                App.initSliders();
+                console.log("init slider end");
+
+            });
+        </script>
 
     </body>
 </html>

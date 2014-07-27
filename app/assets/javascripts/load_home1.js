@@ -1,12 +1,16 @@
 //= require base
+// for slider:
 //= require owl-carousel/owl-carousel/owl.carousel
 //= require pages/page_contacts.js
 //= require plugins/owl-carousel
 
-// to complicate not need those
+//= require circles-master/circles
+//= require jquery.mixitup.min
+//= require plugins/circles-master
+//= require pages/page_portfolio
 
-jQuery(document).ready(function() {
-	App.init();
-	OwlCarousel.initOwlCarousel();                              
+// for our client slider
+//= require flexslider/jquery.flexslider
 
-});
+
+
