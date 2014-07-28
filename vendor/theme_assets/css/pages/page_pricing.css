@@ -40,7 +40,8 @@
 .pricing-head h3 {
 	color:#fafafa;
 	padding:12px 0;
-	font-size:35px;
+	font-size:25px;
+	/*font-size:35px;*/
 	font-family:Arial;
 	background:#9c8061;
 	border-radius:3px 3px 0 0;
