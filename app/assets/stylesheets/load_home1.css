@@ -37,6 +37,10 @@
     color:rgb(238,60,26);
     font-style: bold;
 }
+.color_gold {
+    color:#D6CF22;
+}
+
 .right_border {
     border-right-style: dotted;
     border-right-color: rgb(230,230,230);

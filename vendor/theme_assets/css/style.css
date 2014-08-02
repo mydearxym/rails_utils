@@ -2737,7 +2737,7 @@ img.img-circle {
 /*Misc*/
 .content {
   padding-top: 40px;
-  padding-bottom: 40px;
+  /*padding-bottom: 40px;*/
 }
 
 .text-justify p {
