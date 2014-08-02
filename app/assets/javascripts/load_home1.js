@@ -15,3 +15,20 @@
 //= require image-hover/js/modernizr
 //= require image-hover/js/touch
 
+//= require jquery.sparkline.min
+
+
+var myvalues = [5,1,3,7,4,4,10];
+$('.dynamicsparkline').sparkline(myvalues, {
+	width:100, height:30,
+	tooltipFormat: '<span style="display:inline;color: {{color}}">●</span> 收益率： {{prefix}}{{y}}{{suffix}}', 
+});
+
+var myvalues2 = [5,1,2,1,1,4,8]
+// var myvalues2 = [5,1,3,7,4,4,10];
+$('.dynamicsparkline2').sparkline(myvalues2, {
+	type:"line",
+	width:100, height:30,
+	tooltipFormat: '<span style="display:inline;color: {{color}}">●</span> 收益率： {{prefix}}{{y}}{{suffix}}', 
+});
+

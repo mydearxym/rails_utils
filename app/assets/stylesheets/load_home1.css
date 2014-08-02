@@ -21,9 +21,60 @@
 *= require pages/page_job.css
 
 */
+.fr {
+    float:right;
+}
+.fl {
+    float:left;
+}
+.margin-left-10 {
+    margin-left: 10px
+}
+.margin-top-15 {
+    margin-top: 15px
+}
+.money_red {
+    color:rgb(238,60,26);
+    font-style: bold;
+}
+.right_border {
+    border-right-style: dotted;
+    border-right-color: rgb(230,230,230);
+    border-right-width: 3px;
+    padding-right: 5px;
+}
 
 .table_photo {
-	width: 64px;
-	height: 64px
+    width: 64px;
+    height: 64px
 }
-      
+.annual_earnings {
+    font-weight: bold;
+    font-size: x-large; 
+    color: rgb(238,60,26);
+    margin-left:10px;
+}
+
+.annual_earnings .percent {
+    font-size: small; 
+    color: rgb(238,60,26);
+    margin-left:5px;
+}
+
+.at_least_invest_num {
+    margin-left: -3px;
+    margin-top:6px;
+    color: rgb(32,180,32);
+    font-weight: bold;
+    font-size:large;
+}
+.at_least_invest_num .percent {
+    font-size: small; 
+    color: rgb(32,180,32);
+    margin-left:3px;
+}
+
+
+
+
+
