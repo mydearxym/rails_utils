@@ -27,8 +27,26 @@
 .fl {
     float:left;
 }
+
+.head_title {
+    font-size:large;
+}
+
+.red_a {color:rgb(228,66,66);}
+.hand_cur {
+/*todo*/
+}
+
+.recommend_box {
+    border-style:solid;
+    border-width:2px;
+    padding:2px;
+    padding-bottom: 4px;
+    border-color:#E7E7E7;
+}
+
 .margin-left-10 {
-    margin-left: 10px
+    margin-left: 5px
 }
 .margin-top-15 {
     margin-top: 15px
