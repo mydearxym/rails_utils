@@ -1,0 +1,237 @@
+
+
+
+<div class="wrapper">
+     <!--=== Breadcrumbs ===-->
+    <div class="breadcrumbs">
+        <div class="container">
+            <h1 class="pull-left">xx 理财</h1>
+            <ul class="pull-right breadcrumb">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="">Features</a></li>
+                <li class="active">Timeline</li>
+            </ul>
+        </div>
+    </div><!--/breadcrumbs-->
+    <!--=== End Breadcrumbs ===-->
+
+    <!--=== Content Part ===-->
+    <div class="container content">     
+        <div class="row">
+            <div class="col-md-9">
+                <div class="row">
+                    <h2>户外广告企业补充流动资金（一期）</h2>
+                    <div class="col-md-4">
+                        <div class="alert alert-warning fade in text-center">
+                            <h4 class="money_red">年化收益</h4>
+                            <p style="font-size:x-large;color:rgb(238,60,26);font-style: bold;">13.00%</p>
+                            <p>
+                                <a class="btn-u btn-u-xs btn-u-red" href="#">当日计息</a> <a class="btn-u btn-u-xs btn-u-sea" href="#">本息保障</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="alert alert-warning fade in text-center">
+                            <h4 class="money_red">投资期限</h4>
+                            <p style="font-size:x-large;color:rgb(238,60,26);font-style: bold;">6个月</p>
+                            <p>
+                                <a class="btn-u btn-u-xs btn-u-red" href="#">灵活转让</a> <a class="btn-u btn-u-xs btn-u-sea" href="#">灵活转让</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="alert alert-info fade in">
+                            <!-- <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button> -->
+                            <h4>项目规模</h4>
+                            <p>发布日期：2014-08-01</p>
+                            <p>还款日期：2015-01-30</p>
+                            <p>
+                                <a class="btn-u btn-u-xs btn-u-default" href="#"><i class="fa fa-cog"></i> Take action</a> 
+                                <a class="btn-u btn-u-xs btn-u-dark" href="#"><i class="fa fa-flask"></i> Or do this</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>  
+
+                <ul class="timeline-v2">
+                    <li>
+                        <time class="cbp_tmtime" datetime=""><span>4/1/08</span> <span>项目描述</span></time>
+                        <i class="cbp_tmicon rounded-x hidden-xs"></i>
+                        <div class="cbp_tmlabel">
+                            <h2>户外广告企业补充流动资金（一期）</h2>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <img class="img-responsive" src="/assets/job/high-rated-job-3.1.jpg" alt=""> 
+                                    <div class="md-margin-bottom-20"></div>
+                                </div>
+                                <div class="col-md-8">    
+                                    <p>本次项目融资主要用于借款企业补充流动资金使用；</p>
+                                    <p>借款企业从事户外广告媒体业务，企业实际控制人名下具有多家广告公司，均从事火车站及火车车厢相关的广告业务，目前具有数个中国最重要火车站的长期和独家广告经营权，由于企业业务量的大幅度增加，需充足的流动资金用于企业经营周转，故需在我平台融资1500万元。根据企业业务用款规划，本期融资金额为1000万元。</p>
+                                </div>
+                            </div>        
+                        </div>
+                    </li>
+                             <li>
+                        <time class="cbp_tmtime" datetime=""><span>11/3/10</span> <span>企业信息</span></time>
+                        <i class="cbp_tmicon rounded-x hidden-xs"></i>
+                        <div class="cbp_tmlabel">
+                            <h2>企业背景</h2>
+                            <p>借款企业实际控制人具有广阔的人脉资源，在广告行业从业多年，在广告媒介、公关和设计方面积累了丰富的经验，具有丰富的企业运营经验及管理经验。该企业以“中国最专业高铁车站媒体公司”作为企业发展愿景，专注于中国高铁车站广告媒体经营</p>
+
+                            <div class="margin-bottom-20"></div>
+                            <h2>营业范围</h2>
+                            <p>
+                                设计、制作、代理、发布广告。
+                            </p>
+                            
+                            <h2>经营状况</h2>
+                            <p>
+                                借款企业主要从事户外广告媒体业务，其通过关联公司获得了北京南站至2020年的广告媒体独家使用和经营权，包括站内不同点、不同形式广告媒体。
+                            </p>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <!-- Progress Bar Text -->
+                                    <div class="progress-bar-text">
+                                        <p class="text-left">HTML &amp; CSS</p>
+                                        <p class="text-right">91%</p>
+                                        <div class="progress progress-u progress-xs">
+                                            <div class="progress-bar progress-bar-u progress-bar-u-success" role="progressbar" aria-valuenow="91" aria-valuemin="0" aria-valuemax="100" style="width: 91%">
+                                            </div>
+                                        </div>
+                                    </div>    
+                                    <!-- End Progress Bar Text -->
+                                
+                                    <!-- Progress Bar Text -->
+                                    <div class="progress-bar-text">
+                                        <p class="text-left">Web Animation</p>
+                                        <p class="text-right">55%</p>
+                                        <div class="progress progress-u progress-xs">
+                                            <div class="progress-bar progress-bar-u progress-bar-u-info" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 55%">
+                                            </div>
+                                        </div>
+                                    </div>    
+                                    <!-- End Progress Bar Text -->
+                                </div>    
+
+                                <div class="col-sm-6">
+                                    <!-- Progress Bar Text -->
+                                    <div class="progress-bar-text">
+                                        <p class="text-left">Web Design</p>
+                                        <p class="text-right">67%</p>
+                                        <div class="progress progress-u progress-xs">
+                                            <div class="progress-bar progress-bar-u progress-bar-u-danger" role="progressbar" aria-valuenow="67" aria-valuemin="0" aria-valuemax="100" style="width: 67%">
+                                            </div>
+                                        </div>
+                                    </div>    
+                                    <!-- End Progress Bar Text -->
+
+                                    <!-- Progress Bar Text -->
+                                    <div class="progress-bar-text">
+                                        <p class="text-left">PHP &amp; Javascript</p>
+                                        <p class="text-right">73%</p>
+                                        <div class="progress progress-u progress-xs">
+                                            <div class="progress-bar progress-bar-u progress-bar-u-warning" role="progressbar" aria-valuenow="73" aria-valuemin="0" aria-valuemax="100" style="width: 73%">
+                                            </div>
+                                        </div>
+                                    </div>    
+                                    <!-- End Progress Bar Text -->
+                                </div>   
+                            </div>    
+                        </div>
+                    </li>
+                    <li>
+                        <time class="cbp_tmtime" datetime=""><span>18/7/13</span> <span>担保详情</span></time>
+                        <i class="cbp_tmicon rounded-x hidden-xs"></i>
+                        <div class="cbp_tmlabel">
+                            <h2>担保机构</h2>
+                            <p>北京首担融资担保有限公司</p>
+                            <h2>担保机构简介</h2>
+                            <p>北京首担融资担保有限公司成立于2010年4月，注册资金为人民币20000万元，实收资本20000万元。2011年3月，获得金融局颁发的五年期金融许可证，是首批获得该资质的公司之一。</p>
+                            
+                            <div class="margin-bottom-20"></div>
+
+                            <div class="row">
+                                <div class="col-md-4 col-xs-6">
+                                    <img class="img-responsive md-margin-bottom-10" src="/assets/job/high-rated-job-3.3.jpg" alt="">
+                                </div>
+                                <div class="col-md-4 col-xs-6">
+                                    <img class="img-responsive md-margin-bottom-10" src="/assets/job/high-rated-job-5.1.jpg" alt="">
+                                </div>
+                                <div class="col-md-4 col-xs-6">
+                                    <img class="img-responsive md-margin-bottom-10" src="/assets/job/high-rated-job-5.3.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <time class="cbp_tmtime" datetime=""><span>28/6/12</span> <span>投资记录</span></time>
+                        <i class="cbp_tmicon rounded-x hidden-xs"></i>
+                        <div class="cbp_tmlabel">
+                            <h2>投资记录</h2>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- Begin Content -->
+             
+            <!-- End Content -->
+            <div class="col-md-3 hidden-xs related-search">
+                <div class="row">
+                    <div class="col-md-12 col-sm-4">
+                        <!-- <h3 class="text-highlights text-highlights-blue">理财产品快速搜索</h3> -->
+                        <!-- Search Bar -->
+                        <div class="input-group margin-bottom-20" style="width:200px">
+                            <input type="text" class="form-control" placeholder="理财产品..">
+                            <span class="input-group-btn">
+                                <button class="btn-u" type="button">搜索</button>
+                            </span>
+                        </div>
+                        <!-- End Search Bar -->
+
+                    </div>    
+
+                    <div class="col-md-12 col-sm-4">    
+                        <h3>投资期限</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="#">小于 1 个月</a></li>     
+                            <li><a href="#">‎1 - 3 个月</a></li>   
+                            <li><a href="#">3 - 6 个月</a></li>   
+                            <li><a href="#">‎9 - 12 个月</a></li>   
+                        </ul>
+                        <hr>
+                    </div>    
+
+                    <div class="col-md-12 col-sm-4">
+                        <h3>投资收益</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="#">10-15万</a></li>     
+                            <li><a href="#">15-20万</a></li>     
+                            <li><a href="#">20-30万</a></li>     
+                            <li><a href="#">50-100万</a></li>     
+                        </ul>
+                        <hr>
+                    </div>    
+
+                    <div class="col-md-12 col-sm-4">
+                        <h3>热门投资经理</h3>
+                        <ul class="list-unstyled blog-photos margin-bottom-30">
+                            <li><a href="#"><img src="/assets/sliders/elastislide/5.jpg" alt="" class="hover-effect"></a></li>
+                            <li><a href="#"><img src="/assets/sliders/elastislide/6.jpg" alt="" class="hover-effect"></a></li>
+                            <li><a href="#"><img src="/assets/sliders/elastislide/8.jpg" alt="" class="hover-effect"></a></li>
+                            <li><a href="#"><img src="/assets/sliders/elastislide/10.jpg" alt="" class="hover-effect"></a></li>
+                            <li><a href="#"><img src="/assets/sliders/elastislide/11.jpg" alt="" class="hover-effect"></a></li>
+                            <li><a href="#"><img src="/assets/sliders/elastislide/1.jpg" alt="" class="hover-effect"></a></li>
+                            <li><a href="#"><img src="/assets/sliders/elastislide/2.jpg" alt="" class="hover-effect"></a></li>
+                            <li><a href="#"><img src="/assets/sliders/elastislide/7.jpg" alt="" class="hover-effect"></a></li>
+                        </ul>
+                    </div>
+                </div>        
+            </div><!--/col-md-2-->
+
+        </div> 
+    </div><!--/container-->     
+    <!--=== End Content Part ===-->
+
+</div><!--/End Wrapepr-->
+
+
