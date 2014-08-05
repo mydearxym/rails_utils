@@ -8,7 +8,10 @@
  
  require theme/pages/feature_timeline2
  *= require pages/feature_timeline2
- 
 
+for sidebar
+ *= require baidu.css
+
+ *= require pages/blog.css
 */
-      
+

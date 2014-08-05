@@ -30,6 +30,7 @@ TestNew::Application.routes.draw do
     # root :to => 'demo#index'
     get 'timeline', to: "allpage#timeline"
     get 'home1', to: "allpage#home1"
+    get 'products', to: "allpage#products"
 
   end
 

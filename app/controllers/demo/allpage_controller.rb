@@ -14,6 +14,10 @@ class Demo::AllpageController < ApplicationController
     @assets_need = 'load_home1'
   end
 
+  def products
+    @assets_need = 'load_products'
+  end
+
   def set_layout
     "demopage"
   end
