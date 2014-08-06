@@ -3,6 +3,7 @@
  *= require_self
  *= require base
  *= require pages/page_clients 
- 
-
+ *= require plugins/brand-buttons/brand-buttons
+ *= require plugins/brand-buttons/brand-buttons-inversed
+     
 */

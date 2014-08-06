@@ -22,6 +22,9 @@
 .fl {
     float:left;
 }
+.grey_bg {
+    background-color: rgb(240,240,240);
+}
 
 .left_border {
     border-left-style:solid;
@@ -86,6 +89,12 @@
     margin-left:10px;
 }
 
+.annual_earnings_nol {
+    font-weight: bold;
+    font-size: x-large; 
+    margin-left:10px;
+    color:rgb(125, 128, 127);
+}
 .annual_earnings_big {
     font-weight: bold;
     font-size: xx-large; 
@@ -114,6 +123,10 @@
     color: rgb(32,180,32);
     font-weight: bold;
     font-size:large;
+}
+
+.product_head {
+    color: rgb(115, 173, 219);
 }
 
 .at_least_invest_num_big {
